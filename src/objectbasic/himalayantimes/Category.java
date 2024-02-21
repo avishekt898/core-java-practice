@@ -19,7 +19,6 @@ public class Category {
     boolean isDeleted;
     String createdAt;
     String updatedAt;
-
     boolean isEnvironmentWeatherBad;
 
     @Override

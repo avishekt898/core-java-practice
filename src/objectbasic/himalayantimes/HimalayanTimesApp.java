@@ -34,7 +34,7 @@ public class HimalayanTimesApp {
         covidConnect.isCovid19HelpDesksAvailable = true;
         covidConnect.isThere24hrCovidHotlineService=true;
         covidConnect.isVaccineAvailableToPersonWIthDisabilities=true;
-        System.out.println(covidConnect);
+       System.out.println(covidConnect);
 
         Category world=new Category();
         world.categoryId = 7;
