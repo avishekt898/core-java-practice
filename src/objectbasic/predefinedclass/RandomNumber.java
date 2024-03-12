@@ -10,7 +10,7 @@ public class RandomNumber {
        for (int i =1; i<=95; i++) {
 
             Random x = new Random();
-           int randomValue = x.nextInt(1, 95);
+           int randomValue = x.nextInt(95);
             System.out.printf("The random value of %d is %d \n",i,randomValue);
 
         }
